@@ -14,7 +14,6 @@ cat <<EOF >/etc/squid/mdemdi.conf
 .azurewebsites.net
 .blob.core.usgovcloudapi.net
 .blob.core.windows.net
-.cloud.microsoft
 .digicert.com
 .entrust.net
 .microsoft.com
